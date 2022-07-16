@@ -1,9 +1,13 @@
+/*common start*/
 body{
     margin: 0;
     padding: 0;
     color: white;
     font-family: sans-serif;
 }
+/*common end*/
+
+/*header start*/
 header{
     padding-top: 15px;
     background: rgba(00,00,00,0.5)url(../images/background.jpeg);
@@ -104,7 +108,7 @@ header{
         border-radius: 15px;
 
     }
-    
+    /*header end*/
 
     /*section start*/
     .line{
@@ -188,6 +192,7 @@ header{
     /*border: 1px solid blue;*/
     }
     /*section end*/
+
     /*SECTION START*/
     .about{
         padding-top: 120px;
@@ -232,6 +237,7 @@ header{
     }
 
     /*start end*/
+
     /*section start*/
     .images {
         padding-top: 100px;
@@ -295,7 +301,7 @@ header{
     .pic2 img{
         width: 100%;
     }
-
+    /*section end*/
     /*footer start*/
     footer{
         padding: 15px 0;
